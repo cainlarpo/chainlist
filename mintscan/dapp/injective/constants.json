@@ -39,5 +39,16 @@
     "dappType": "Defi",
     "description": "Stabilizing Prices Across the IBC.",
     "link": "https://app.whitewhale.money/injective/swap"
-  }
+  },
+  {
+    "id": "gryphon",
+    "name": "Gryphon",
+    "dappType": "Defi",
+    "description": "Gryphon is Injective's MEV Protocol. It seamlessly integrates LSD and a stablecoin (CDP) component. Think of a mashup between Jito + DAI.",
+    "link": "https://app.gryphon.finance/",
+    "social": {
+      "webSite": "https://gryphon.finance/",
+      "twitter": "https://twitter.com/Gryphon_fi",
+      "docs": "https://docs.gryphon.finance/"
+    }
 ]
